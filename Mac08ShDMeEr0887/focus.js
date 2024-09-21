@@ -1,1 +1,0 @@
-<script defer src="https://analytic.viztechie.com/pixel/qeVPZkVloSpkwbfI"></script>
